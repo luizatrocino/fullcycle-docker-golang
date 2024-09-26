@@ -1,6 +1,6 @@
 # FullCycle - Docker - Desafio 1
 
-Para rodar a imagem localmente, siga as etapas a seguir, dentro da pasta em que estiver saldo o projeto em questão:
+Para rodar a imagem localmente, siga as etapas a seguir, dentro da pasta em que estiver salvo o projeto em questão:
 
 `docker build -t luizatrocino/fullcycle-docker-golang .`
 
